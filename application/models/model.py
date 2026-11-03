@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-from application.extensions import db
+from ..extensions import db
 from datetime import datetime
 
 __all__ = ['Todo']
